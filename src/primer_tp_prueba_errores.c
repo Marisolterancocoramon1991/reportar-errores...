@@ -12,7 +12,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include "cargaCostoMantenimiento.h"
-#include "validacioness.h"
+#include "validaciones.h"
 #include "menu.h"
 #define JUGADORES 22 //aplicar la cantidad de interacciones  por jugador .
 #define CIEN 100  //division para el porcentaje de jugadores por confederacion.

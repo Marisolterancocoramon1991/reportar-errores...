@@ -7,7 +7,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "validacioness.h"
+#include "validaciones.h"
 
 int cargarCostoMantenimiento(int *transporte, int *hospedaje, int *comida) {
 

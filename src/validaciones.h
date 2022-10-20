@@ -1,12 +1,12 @@
 /*
- * validacioness.h
+ * validaciones.h
  *
- *  Created on: 19 oct 2022
+ *  Created on: 20 oct 2022
  *      Author: kervi
  */
 
-#ifndef VALIDACIONESS_H_
-#define VALIDACIONESS_H_
+#ifndef VALIDACIONES_H_
+#define VALIDACIONES_H_
 
 int get_UTN_ValidacionNumero(int *resultado, char mensaje[],
 		char mensajeFalla[], int numeroMinimo, int numeroMaximo,
@@ -16,4 +16,4 @@ int recogerNumero(int *resultado);
 int esNumero(char *valorReemplazoResultado);
 
 
-#endif /* VALIDACIONESS_H_ */
+#endif /* VALIDACIONES_H_ */
